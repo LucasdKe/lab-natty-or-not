@@ -1,51 +1,35 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
 ## 🚀 Introdução
 
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
+Olá pessoal, eu me chamo Lucas e estou aqui para apresentar meu artigo feito por IA, neste artigo utilizei o Gemini e o Copilot para me auxiliarem nesa jornada
+e espero que gostem do resultado.
 
 ### Template
 
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# Introdução à Inteligência Artificial Generativa: Um Novo Paradigma da Criatividade e suas Diversas Aplicações
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+
+Este artigo explora a IA generativa, uma tecnologia que cria novos conteúdos como textos,
+imagens, músicas e códigos a partir de dados. Explica o funcionamento das redes neurais
+que permitem essa criação e destaca suas diversas aplicações em áreas como criação de
+conteúdo, design, jogos, medicina, educação e negócios. Também discute os benefícios de
+eficiência e personalização, além dos desafios éticos relacionados à qualidade e
+privacidade dos dados.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+IA Generativas [Copilot](https://copilot.microsoft.com/) & [Gemini](https://gemini.google.com/app/c971a1e4c2d704ff) para a criação do artigo, para detalhar e mostrar benefícios da IA.  
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+Comecei a perguntar dos chats para que me ajudassem a encontrar topicos bons para serem utilizados, depois de muitos topicos, criei o tema a partir das ideias de ambos os chats, olhei um pouco em blogs e para ter um entendimento mais afundo antes de utilizar chat para criar os subtopicos e o restante do artigo da IA, com a propia IA.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+Veja meu [Artigo]()
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+A evolução é inevitável quando unimos a criatividade humana com a potência da IA."
 
 ### Exemplos e Insigths
 
 - [E-BOOK](/exemplos/E-BOOK.md)
 - [Podcast](/exemplos/PODCAST.md)
 - [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
-
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
