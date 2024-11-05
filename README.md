@@ -23,7 +23,7 @@ IA Generativas [Copilot](https://copilot.microsoft.com/) & [Gemini](https://gemi
 Comecei a perguntar dos chats para que me ajudassem a encontrar topicos bons para serem utilizados, depois de muitos topicos, criei o tema a partir das ideias de ambos os chats, olhei um pouco em blogs e para ter um entendimento mais afundo antes de utilizar chat para criar os subtopicos e o restante do artigo da IA, com a propia IA.
 
 ## 🚀 Resultados
-Veja meu [Artigo]()
+Veja meu [Artigo](Artigo.md)
 
 ## 💭 Reflexão (Opcional)
 A evolução é inevitável quando unimos a criatividade humana com a potência da IA."
